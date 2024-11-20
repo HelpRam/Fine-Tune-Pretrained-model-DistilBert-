@@ -1,4 +1,4 @@
-# DistilBERT Intent Detection Fine-Tuning Project
+# Fine Tuned DistilBERT Pretarined Model
 
 This repository contains a project where I fine-tuned a pretrained **DistilBERT** model for intent detection in conversational messages. The project guides you through the end-to-end process of training and fine-tuning the model, from data preparation to model deployment.
 
